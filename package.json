@@ -1,18 +1,60 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@hoangcung1804npm/ipsum-ullam-ad",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
+  "author": "hoangcung1804",
   "license": "MIT",
+  "dependencies": {
+    "@hoangcung1804npm/a-aut-officia": "^1.0.0",
+    "@hoangcung1804npm/accusantium-doloremque-inventore": "^1.0.0",
+    "@hoangcung1804npm/aspernatur-autem-aliquid": "^1.0.0",
+    "@hoangcung1804npm/delectus-exercitationem-accusantium": "^1.0.0",
+    "@hoangcung1804npm/dicta-quam-odit": "^1.0.0",
+    "@hoangcung1804npm/doloremque-optio-voluptatibus": "^1.0.0",
+    "@hoangcung1804npm/dolores-ipsam-in": "^1.0.0",
+    "@hoangcung1804npm/eaque-repudiandae-cupiditate": "^1.0.0",
+    "@hoangcung1804npm/enim-voluptas-ipsa": "^1.0.0",
+    "@hoangcung1804npm/facilis-animi-quisquam": "^1.0.0",
+    "@hoangcung1804npm/fuga-deserunt-voluptatibus": "^1.0.0",
+    "@hoangcung1804npm/harum-quidem-eaque": "^1.0.0",
+    "@hoangcung1804npm/illo-necessitatibus-porro": "^1.0.0",
+    "@hoangcung1804npm/in-natus-quis": "^1.0.0",
+    "@hoangcung1804npm/itaque-voluptate-repellat": "^1.0.0",
+    "@hoangcung1804npm/molestias-praesentium-blanditiis": "^1.0.0",
+    "@hoangcung1804npm/non-odio-quo": "^1.0.0",
+    "@hoangcung1804npm/perferendis-itaque-alias": "^1.0.0",
+    "@hoangcung1804npm/possimus-mollitia-qui": "^1.0.0",
+    "@hoangcung1804npm/qui-nesciunt-nulla": "^1.0.0",
+    "@hoangcung1804npm/ratione-quidem-fugiat": "^1.0.0",
+    "@hoangcung1804npm/sunt-cum-corporis": "^1.0.0",
+    "@hoangcung1804npm/temporibus-ipsam-debitis": "^1.0.0",
+    "@hoangcung1804npm/ut-alias-perferendis": "^1.0.0",
+    "@hoangcung1804npm/ut-nam-tempore": "^1.0.0",
+    "@omegion1npm/facere-ullam-excepturi-facilis": "^1.0.0",
+    "hai-custom-button": "^1.0.0",
+    "skyler-first-code": "^1.0.2",
+    "tul-crypto-fuc-3": "^1.0.0",
+    "vnhat-modal-component": "^1.0.0"
+  },
+  "keywords": [
+    "regular",
+    "ES2022",
+    "rate",
+    "output",
+    "which",
+    "__proto__",
+    "delete",
+    "fixed-width",
+    "valid"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/hoangcung1804npm/ipsum-ullam-ad.git"
   },
-  "dependencies": {
-    
+  "homepage": "https://github.com/hoangcung1804npm/ipsum-ullam-ad/#readme",
+  "bugs": {
+    "url": "https://github.com/hoangcung1804npm/ipsum-ullam-ad/issues"
   }
 }
